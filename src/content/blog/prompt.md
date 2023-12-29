@@ -2,7 +2,7 @@
 author: pen
 pubDatetime: 2023-12-29T00:36:04.866Z
 title: 使用 prompt 与 ChatGPT 对话的 20 个技巧
-postSlug:
+postSlug: how-to-use-prompt-to-chat-with-chatgpt
 featured: false
 draft: false
 tags:
