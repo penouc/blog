@@ -3,10 +3,10 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-我叫 pen，
-喜欢折腾技术，前端/后端/AI
-爱好喜欢看电影/摄影/打游戏
-邮箱：penouc@gmail.com
+### 我叫 pen，
+- 喜欢折腾技术，前端/后端/AI
+- 爱好喜欢看电影/摄影/打游戏
+- 邮箱：penouc@gmail.com
 
 
 <div>
