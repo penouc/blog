@@ -1,4 +1,3 @@
-```
 ---
 title: 卷积神经网络，循环神经网络和 transformer 架构的异同
 author: pen
@@ -14,4 +13,3 @@ tags:
   - 循环神经网络
   - transformer
 ---
-```
