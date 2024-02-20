@@ -38,7 +38,7 @@ tags:
 ### Github publisher 配置
 ![image.png](https://blog-1256302330.cos.ap-beijing.myqcloud.com//test20240220161504.png)
 | 序号 | 解释                                                                                                                                  |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | 填写博客地址 github 用户名称                                                                                                          |
 | 2    | 填写博客地址的仓库名称                                                                                                                |
 | 3    | 申请 github 的 token，这个 token 可以用来发布内容 [Personal Access Tokens (Classic) (github.com)](https://github.com/settings/tokens) |
@@ -47,8 +47,9 @@ tags:
 
 ![image.png](https://blog-1256302330.cos.ap-beijing.myqcloud.com//test20240220162338.png)
 | 序号 | 解释 |
-| --- | --- |
+| ----- | --- |
 | 1 |  发布的博客中需要放置 md 的目录，这里 src/content 就是这个 Astro 博客中文章的地方  |
+
 ![image.png](https://blog-1256302330.cos.ap-beijing.myqcloud.com//test20240220162550.png)
 | 序号 | 解释 |
 | --- | --- |
