@@ -18,6 +18,7 @@ tags:
   - github
   - publisher
 ---
+![image.png](https://blog-1256302330.cos.ap-beijing.myqcloud.com//test20240221150847.png)
 
 ## 背景
 最近把笔记系统从 ：Logseq 迁移到 Obsidian 上了， 发现 obsidian 的能力比 logseq 要强大很多，对 markdown 的支持也非常友好。大概花了两天的时间研究各种各样的插件（过两天单独写一篇文章介绍），因为之前自己也搭建了一个博客，博客的技术栈是采用的 `Astro` `Github` `Cloudflare`，博客模板地址如下 [satnaing/astro-paper: A minimal, accessible and SEO-friendly Astro blog theme (github.com)](https://github.com/satnaing/astro-paper)，因为 Obsidian 和 Astro 的目录都是使用 MD 作为文件操作，所以我就打算搭建一个 Obsidian 编写文章，一键发布到 Github，然后同步发布到 Cloudflare 的能力。  
