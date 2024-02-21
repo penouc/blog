@@ -6,6 +6,7 @@ import Tag from "@components/Tag.astro";
 import Datetime from "@components/Datetime";
 import type { CollectionEntry } from "astro:content";
 import { slugifyStr } from "@utils/slugify";
+import Comment from "@components/Comment.astro";
 
 export interface Props {
   post: CollectionEntry<"blog">;
@@ -25,6 +26,7 @@ const ogUrl = new URL(
 ).href;
 ---
 
+<Comment />
 <Layout
   title={title}
   author={author}
