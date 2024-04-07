@@ -10,10 +10,7 @@ description: 如果你想了解EPSG:4326（WGS 84）和EPSG:3857（Web Mercator�
 featured: false
 postSlug: data-map-coordinate
 tags:
-  - epsg-4326
-  - epsg-3857
   - epsg
-  - 900913
   - 投影
   - 数据集
   - 坐标系统
